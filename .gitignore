@@ -1,0 +1,20 @@
+.DS_Store
+
+# Node / frontend
+node_modules/
+frontend/node_modules/
+frontend/build/
+frontend/coverage/
+
+# Java / backend
+backend/target/
+*.class
+
+# IDE / logs
+.idea/
+*.log
+
+# Env files
+.env
+.env.*
+!.env.example
